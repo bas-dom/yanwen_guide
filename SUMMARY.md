@@ -10,7 +10,7 @@
   * [后台接口调试用什么工具](postman_team.md)
   * [代码管理使用什么工具](code_manage.md)
   * [bug管理使用什么工具](bug_manage.md)
-  * [我需要开哪些帐号](tools.md)  
+  * [刚入职时我需要找谁申请哪些帐号](tools_user.md)  
   
 * [3. 工作规定]
   * [每天怎么工作](work_report.md)
