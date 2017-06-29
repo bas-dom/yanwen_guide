@@ -4,12 +4,13 @@
   * [作息规定](schedule_rule.md)
   * [怎么订水](schedule_rule.md)
   
-* [第2部分 办公资源]
+* [2. 办公资源]
   * [怎么上网和翻墙](network.md)
   * [项目大文件、软件安装包在哪里下载：FTP](network_ftp.md)
   * [后台接口调试用什么工具](postman_team.md)
   * [代码管理使用什么工具](code_manage.md)
   * [bug管理使用什么工具](bug_manage.md)
+  * [我需要开哪些帐号](tools.md)  
   
 * [3. 工作规定]
   * [每天怎么工作](work_report.md)
