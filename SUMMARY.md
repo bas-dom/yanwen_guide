@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [概述](README.md)
 * \[1. 日常事务\]
   * [作息规定](schedule_rule.md)
   * [怎么订水](schedule_rule.md)
