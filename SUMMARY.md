@@ -20,8 +20,7 @@
 * [4. IT组相关运维规定](it_daily.md)
   * [om项目的仿真后台的管理](om_backend.md)
 
-* [5. 优化控制类项目实施规](5-xiang-mu-diao-8bd55d.md)
-
+* [5. 优化控制类项目实施规范](5-xiang-mu-diao-8bd55d.md)
   * [项目组态文件规定](projectdb_rule.md)
   * [项目调试和运维日志规定](project_cx.md)
   * [文件管理规范](wen-jian-guan-li-gui-fan.md)
