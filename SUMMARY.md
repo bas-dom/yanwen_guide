@@ -16,11 +16,13 @@
   * [刚入职时我需要找谁申请哪些帐号](tools_user.md)
 * [\[3. 工作规范\]](3-gong-zuo-gui-5b9a5d.md)
   * [每天怎么工作](work_report.md)
-  * [\[怎么开会\] \(meeting\_rule.md\)](#)
+  * [开会](#)规范
 * \[4. 服务器运维规定\]
+
   * [om项目的仿真后台的管理](om_backend.md)
 
 * [5. 优化控制类项目实施规](5-xiang-mu-diao-8bd55d.md)
+
   * [项目组态文件规定](projectdb_rule.md)
   * [项目调试和运维日志规定](project_cx.md)
   * [文件管理规范](wen-jian-guan-li-gui-fan.md)
