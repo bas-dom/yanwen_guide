@@ -17,8 +17,7 @@
 * [3. 工作规范](3-gong-zuo-gui-5b9a5d.md)
   * [每天怎么工作](work_report.md)
   * [开会规范](meeting_rule.md)
-* 4. IT组相关运维规定
-
+* [4. IT组相关运维规定](it_daily.md)
   * [om项目的仿真后台的管理](om_backend.md)
 
 * [5. 优化控制类项目实施规](5-xiang-mu-diao-8bd55d.md)
