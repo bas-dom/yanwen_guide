@@ -16,7 +16,7 @@
   * [刚入职时我需要找谁申请哪些帐号](tools_user.md)
 * [\[3. 工作规范\]](3-gong-zuo-gui-5b9a5d.md)
   * [每天怎么工作](work_report.md)
-  * [开会](#)规范
+  * [开会规范](meeting_rule.md)
 * \[4. 服务器运维规定\]
 
   * [om项目的仿真后台的管理](om_backend.md)
