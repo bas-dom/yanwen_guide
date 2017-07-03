@@ -5,8 +5,9 @@
   * [作息规定](schedule_rule.md)
   * [怎么订水](schedule_rule.md)
   * 如何报销
-  * [如何请假](ru-he-qing-jia.md)
+  * [如何休假](ru-he-qing-jia.md)
   * [兼职或实习生的时间记录](jian-zhi-huo-shi-xi-sheng-de-shi-jian-ji-lu.md)
+  * [考勤制度](kao-qin-zhi-du.md)
 * [2. 办公资源](2-ban-gong-zi-6e905d.md)
   * [怎么上网和翻墙](network.md)
   * [刚入职时我需要找谁申请哪些帐号](tools_user.md)
