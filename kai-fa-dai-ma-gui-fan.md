@@ -67,7 +67,7 @@ function setSidebar() {
   });
 }
  
-其他参考引用
+# 其他参考引用
 可参照学习，如有冲突部分，请以本文档为最终基准:
 	JavaScript规范 https://github.com/adamlu/javascript-style-guide
 	编写更好的jQuery代码 http://www.cnblogs.com/allenxing/p/3672105.html
