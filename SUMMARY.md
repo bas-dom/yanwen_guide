@@ -3,8 +3,9 @@
 * [概述](README.md)
 * [1. 日常事务](1-ri-chang-shi-52a15d.md)
   * [作息规定](schedule_rule.md)
-  * [怎么订水](schedule_rule.md)
-  * 如何报销
+  * [订水、网络维修](repair_rule.md)
+  * [加班晚餐福利规定](wan_can_jia_ban.md)
+  * [如何报销](baoxiao.md)
   * [如何休假](ru-he-qing-jia.md)
   * [兼职或实习生的时间记录](jian-zhi-huo-shi-xi-sheng-de-shi-jian-ji-lu.md)
   * [考勤制度](kao-qin-zhi-du.md)
