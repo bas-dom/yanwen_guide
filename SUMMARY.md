@@ -26,6 +26,6 @@
 * [5. 优化控制类项目实施规范](5-xiang-mu-diao-8bd55d.md)
   * [项目组态文件规定](projectdb_rule.md)
   * [项目文件和文档管理规范](wen-jian-guan-li-gui-fan.md)
-* [开发代码规范-前端](kai-fa-dai-ma-gui-8303-qian-duan.md)
-  * aaaaaaa
+* [开发代码规范-前端](front_code_rule.md)
+
 
