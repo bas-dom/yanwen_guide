@@ -19,7 +19,6 @@
 * [3. 工作规范](3-gong-zuo-gui-5b9a5d.md)
   * [每天怎么工作](work_report.md)
   * [开会规范](meeting_rule.md)
-  * [开发代码规范](kai-fa-dai-ma-gui-fan.md)
   * [开发代码提交规范](kai-fa-dai-ma-ti-jiao-gui-fan.md)
 * [4. IT组相关运维规定](it_daily.md)
   * [om项目的仿真后台的管理](om_backend.md)
@@ -27,4 +26,6 @@
 * [5. 优化控制类项目实施规范](5-xiang-mu-diao-8bd55d.md)
   * [项目组态文件规定](projectdb_rule.md)
   * [项目文件和文档管理规范](wen-jian-guan-li-gui-fan.md)
+* [开发代码规范-前端](kai-fa-dai-ma-gui-8303-qian-duan.md)
+  * aaaaaaa
 

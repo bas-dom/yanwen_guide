@@ -7,20 +7,23 @@
 •	提交代码前，请更新本地代码。进行简单测试，确保运行无误后，方可提交。
 •	提交代码时，请填写备注，并勾选掉没用的文件。
 •	精简提交次数。提交的代码应该保证逻辑上的完整、独立。确保每次提交都有价值。
+
 5．	命名：
 •	无论CSS、JS，请用采用小驼峰命名法。HTML标签、属性名请全部小写。
 •	命名应简约而不失语义，建议适当的缩写。第一节反映出元素种类或所属模块，如button的样式请用btn开头、string的声明请用str开头。请参照“统一语义理解和简写”小节。
 •	类名、枚举名、全局变量名首字母大写。
 •	静态变量名所有字母大写。
-
 •	JQuery对象，请用”$”开头，如var $div = $(“divName”);。
 6．	必要、精简的注释。良好的注释可以帮助自己和他人，请尽量清晰地描述。注释中偶尔的幽默，可以让大家更愉快的编码。临时性代码请注释//TODO。
 7．	换行。
-•	只有一行内容，请不要换行。如.btnXXX { margin: 0; }，if(true) return;。
-•	每对大括号，后一个换行，前一个不换行。
+   只有一行内容，请不要换行。如
+```
+.btnXXX { margin: 0; }，if(true) return;
+```
+   每对大括号，后一个换行，前一个不换行。
 8．	引号。HTML标签内请用双引号，JS、CSS中优先使用单引号。
 9．	属性顺序。HTML 属性应当按照class, id, style,其他的顺序依次排列。
-10．	引入图片，应优先用css属性，尽量避免使用<img>标签。
+10．	引入图片，应优先用css属性，尽量避免使用img标签
 11．	适当的空格。
 •	“=”、”==”、”&&”、”||”、”>”、”<”前后需要跟空格
 •	数组成员间的”,”和各个参数间的”,”（包括形参和实参）后面需要跟空格。
@@ -39,6 +42,7 @@
 -moz-box-shadow:0 0 0 #000;
 box-shadow:0 0 0 #000;
 }
+
 10．	减少标签的数量。编写 HTML 代码时，尽量避免多余的父元素，保持简洁。
 11．	预防元素显示失败、显示不明确。如为<img>添加alt属性，为canvas添加加载失败提示，适当的添加title属性等。
 12．	优先使用CSS。如果CSS可以做到，就不要使用JS，减轻JS开发量：
@@ -90,6 +94,8 @@ http://www.html-js.com/article/The-little-front-end-tw93-JavaScript-programming-
 盒容器	wrap/box	wrap/box
 模块（.m-）、元件（.u-）
 语义	命名	简写
+
+
 导航	nav	nav
 子导航	subnav	snav
 面包屑	crumb	crm
@@ -136,3 +142,4 @@ http://www.html-js.com/article/The-little-front-end-tw93-JavaScript-programming-
 关闭	close	close
 出错	error	err
 不可用	disabled	dis
+

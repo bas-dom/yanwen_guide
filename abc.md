@@ -12,7 +12,6 @@
 •	命名应简约而不失语义，建议适当的缩写。第一节反映出元素种类或所属模块，如button的样式请用btn开头、string的声明请用str开头。请参照“统一语义理解和简写”小节。
 •	类名、枚举名、全局变量名首字母大写。
 •	静态变量名所有字母大写。
-
 •	JQuery对象，请用”$”开头，如var $div = $(“divName”);。
 6．	必要、精简的注释。良好的注释可以帮助自己和他人，请尽量清晰地描述。注释中偶尔的幽默，可以让大家更愉快的编码。临时性代码请注释//TODO。
 7．	换行。
@@ -32,9 +31,9 @@
 5．	请使用绝对路径。如“/static/scripts/lib/Chart.min.js”。
 6．	适量的ID。仅在必要时为HTML标签添加ID属性，如动态数据容器等。
 7．	优先采用div布局。布局时，能不使用“position: absolute”，则不使用。
-8．	所有的HTML标签应该正确闭合。无论是否为自闭和标签，请确保每个标签都有对应的”/”。
+8．	所有的HTML标签应该正确闭合。无论是否为自闭和标签，请确保每个标签都有对应的”/”。 
 9．	私有在前，标准在后。先写带有浏览器私有标志的，后写W3C标准的。
-.m-box {
+	.m-box {
 -webkit-box-shadow:0 0 0 #000;
 -moz-box-shadow:0 0 0 #000;
 box-shadow:0 0 0 #000;
@@ -49,21 +48,21 @@ box-shadow:0 0 0 #000;
 14．	缓存jQuery查询。
 // bad
 function setSidebar() {
-$('.sidebar').hide();
-// ...stuff...
-$('.sidebar').css({
-'background-color': 'pink'
-});
+  $('.sidebar').hide();
+  // ...stuff...
+  $('.sidebar').css({
+    'background-color': 'pink'
+  });
 }
 
 // good
 function setSidebar() {
-var $sidebar = $('.sidebar');
-$sidebar.hide();
-// ...stuff...
-$sidebar.css({
-'background-color': 'pink'
-});
+  var $sidebar = $('.sidebar');
+  $sidebar.hide();
+  // ...stuff...
+  $sidebar.css({
+    'background-color': 'pink'
+  });
 }
  
 其他参考引用
@@ -74,7 +73,7 @@ $sidebar.css({
 http://codeguide.bootcss.com/
 	NEC http://nec.netease.com/
 	javascript编程规范-基本格式 http://www.tw93.com/?p=1
-	javascript编程规范-命名规范
+	javascript编程规范-命名规范 
 http://www.html-js.com/article/The-little-front-end-tw93-JavaScript-programming-specification--naming-conventions
 统一语义理解和简写
 布局（.g-）
@@ -136,3 +135,4 @@ http://www.html-js.com/article/The-little-front-end-tw93-JavaScript-programming-
 关闭	close	close
 出错	error	err
 不可用	disabled	dis
+
