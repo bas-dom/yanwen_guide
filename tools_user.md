@@ -25,13 +25,21 @@ POP3端口：995
 
 向账号管理员申请
 
+公用账号参考：[这里](/network_ftp.md)
+
+
 # GITHUB帐号
 
 帐号自行申请，申请地址：[http://www.github.com](http://www.github.com)
 
+公用账号说明：
+
 # GITBOOK帐号
 
 帐号自行申请，建议直接使用联名GITHUB登录
+
+公用账号参考：[这里](/network_ftp.md)
+
 
 
 
@@ -39,7 +47,7 @@ POP3端口：995
 
 向SVN管理员申请
 
-
+公用账号参考：[这里](/code_manage.md)
 
 
 
@@ -47,7 +55,7 @@ POP3端口：995
 
 向redmine管理员申请
 
-
+公用账号参考：[这里](/bug_manage.md)
 
 
 
