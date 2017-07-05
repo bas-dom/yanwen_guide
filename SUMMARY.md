@@ -16,6 +16,7 @@
   * [后台接口调试用什么工具](postman_team.md)
   * [代码管理使用什么工具](code_manage.md)
   * [bug管理使用什么工具](bug_manage.md)
+  * [公司内部WIKI文档在哪里](gong-si-nei-bu-wiki-wen-dang-zai-na-li.md)
 * [3. 工作规范](3-gong-zuo-gui-5b9a5d.md)
   * [每天怎么工作](work_report.md)
   * [开会规范](meeting_rule.md)
@@ -29,3 +30,4 @@
   * [开发代码提交规范](kai-fa-dai-ma-ti-jiao-gui-fan.md)
   * [前端代码规范](qian-duan-dai-ma-gui-fan.md)
   * [开发代码提交规范](kai-fa-dai-ma-ti-jiao-gui-fan.md)
+
