@@ -31,6 +31,6 @@
   * [aaa0](aaa0.md)
   * [aaa1](aaa1.md)
   * [aaa2](aaa.md)
-* [开发代码提交规范](kai-fa-dai-ma-ti-jiao-gui-fan.md)
+  * [开发代码提交规范](kai-fa-dai-ma-ti-jiao-gui-fan.md)
 
 
