@@ -28,4 +28,4 @@
 * [6. 开发代码规范](dai-ma-gui-fan.md)
   * [开发代码提交规范](kai-fa-dai-ma-ti-jiao-gui-fan.md)
   * [前端代码规范](qian-duan-dai-ma-gui-fan.md)
-
+  * [开发代码提交规范](kai-fa-dai-ma-ti-jiao-gui-fan.md)
