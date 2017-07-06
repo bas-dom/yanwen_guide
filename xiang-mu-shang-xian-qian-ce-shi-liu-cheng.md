@@ -6,7 +6,7 @@ windows远程登录机房仿真服务器：
 windows用户名：Administrator
 windows密码：润物细无声
 
-或者使用本机(windows系统,且部署core和python 3.4环境)
+或者使用**本机**(windows系统,且部署core和python 3.4环境)
 
 
 ## 环境部署，适用于第一次测试 ##
