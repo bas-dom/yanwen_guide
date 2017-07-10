@@ -20,6 +20,7 @@
 * [3. 工作规范](3-gong-zuo-gui-5b9a5d.md)
   * [每天怎么工作](work_report.md)
   * [开会规范](meeting_rule.md)
+  * [写中文文档的规范](xie-zhong-wen-wen-dang-de-gui-fan.md)
 * [4. IT组相关运维规定](it_daily.md)
   * [om项目的仿真后台的管理](om_backend.md)
   * [软件发布及版本号命名规范](ruan-jian-fa-bu-gui-fan.md)
