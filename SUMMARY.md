@@ -28,6 +28,7 @@
   * [软件发布后的群体通知规范](ruan-jian-fa-bu-hou-de-qun-ti-tong-zhi-gui-fan.md)
   * [排查网站问题的群体通知规范](pai-cha-wang-zhan-wen-ti-de-qun-ti-tong-zhi-gui-fan.md)
   * [code提交的log和review规范](codeti-jiao-he-review-gui-fan.md)
+  * [日清工作计划与总结机制](ri-qing-gong-zuo-ji-hua-yu-zong-jie-ji-zhi.md)
 * [5. 优化控制类项目实施规范](5-xiang-mu-diao-8bd55d.md)
   * [项目组态文件规定](projectdb_rule.md)
   * [项目文件和文档管理规范](wen-jian-guan-li-gui-fan.md)
