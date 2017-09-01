@@ -1,5 +1,7 @@
 # Summary
 
+## 通用
+
 * [概述](README.md)
 * [1. 日常事务](1-ri-chang-shi-52a15d.md)
   * [作息规定](schedule_rule.md)
@@ -36,4 +38,8 @@
   * [开发代码提交规范](kai-fa-dai-ma-ti-jiao-gui-fan.md)
   * [前端代码规范](qian-duan-dai-ma-gui-fan.md)
   * [开发代码提交规范](kai-fa-dai-ma-ti-jiao-gui-fan.md)
+
+## 纪律与奖惩
+
+* [纪律制度表](ji-lv-yu-jiang-cheng/ji-lv-zhi-du-biao.md)
 
