@@ -24,6 +24,7 @@
   * [每日工作规范](work_report.md)
   * [开会规范](meeting_rule.md)
   * [写中文文档的规范](xie-zhong-wen-wen-dang-de-gui-fan.md)
+  * [着装与清洁](zhao-zhuang-gui-fan.md)
 * [4. IT组相关规范](it_daily.md)
   * [om项目的仿真后台的管理](om_backend.md)
   * [软件发布及版本号命名规范](ruan-jian-fa-bu-gui-fan.md)
