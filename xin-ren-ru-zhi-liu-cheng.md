@@ -16,13 +16,11 @@
 
 主管会通知邮件账号、SVN、FTP、redmine等系统账号，默认密码建议修改。
 
-需要预安装的软件有FileZilla、Outlook、Chrome浏览器、QQ、shadowsocks。
+需要预安装的软件有FileZilla、Outlook（收到主管测试邮件后请将签名档按主管格式调整内容并回复主管确认是否正确）、Chrome浏览器、QQ、shadowsocks。
 
 工作目录建议在D:/work/英文名（这是windows系统建议，linux建议在/home/work/英文名，mac建议在/User/英文名）
 
 需要主动注册的网站账号有：GitHub、Gitbook（Github联名），建议用公司邮箱注册，如果自己有账号也可直接使用。注册好需通知主管。
-
-
 
 # 4. 导师制度
 
