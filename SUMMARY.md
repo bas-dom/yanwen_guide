@@ -3,6 +3,7 @@
 ## 通用
 
 * [概述](README.md)
+  * 出差规定
 * [1. 日常事务](1-ri-chang-shi-52a15d.md)
   * [作息规定](schedule_rule.md)
   * [订水、网络维修](repair_rule.md)
@@ -12,6 +13,8 @@
   * [兼职或实习生的时间记录](jian-zhi-huo-shi-xi-sheng-de-shi-jian-ji-lu.md)
   * [考勤制度](kao-qin-zhi-du.md)
   * [工作前先学会哪些基本技能](gong-zuo-qian-xian-xue-hui-na-xie-ji-ben-ji-neng.md)
+  * [关于开发票的规定](guan-yu-kai-fa-piao-de-gui-ding.md)
+  * [出差规定](chu-cha-gui-ding.md)
 * [2. 办公资源](2-ban-gong-zi-6e905d.md)
   * [怎么上网和翻墙](network.md)
   * [刚入职时我需要找谁申请哪些帐号](tools_user.md)
