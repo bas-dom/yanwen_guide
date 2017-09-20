@@ -26,6 +26,7 @@
 * [3. 工作规范](3-gong-zuo-gui-5b9a5d.md)
   * [每日工作规范](work_report.md)
   * [开会规范](meeting_rule.md)
+  * [团队协作规范](tuan-dui-xie-zuo-gui-fan.md)
   * [写中文文档的规范](xie-zhong-wen-wen-dang-de-gui-fan.md)
   * [着装与清洁](zhao-zhuang-gui-fan.md)
   * [新人入职流程](xin-ren-ru-zhi-liu-cheng.md)
