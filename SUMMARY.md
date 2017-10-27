@@ -3,7 +3,6 @@
 ## 通用
 
 * [概述](README.md)
-  * 出差规定
 * [1. 日常事务](1-ri-chang-shi-52a15d.md)
   * [作息规定](schedule_rule.md)
   * [订水、网络维修](repair_rule.md)
@@ -49,4 +48,6 @@
 ## 纪律制度
 
 * [纪律制度表](ji-lv-yu-jiang-cheng/ji-lv-zhi-du-biao.md)
+
+
 
